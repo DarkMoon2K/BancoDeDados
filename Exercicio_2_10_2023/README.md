@@ -23,9 +23,9 @@ Ao término inicie a segunda etapa.
 
 ## Etapa 2
 
-Gere um !relatório(Quantidade_De_Produtos.csv) informando quantos produtos estão cadastrados.
+Gere um relatório[relatorio](Quantidade_De_Produtos.csv) informando quantos produtos estão cadastrados.
 
-Gere um !relatório(Preço_Medio.csv) informando o preço médio dos produtos.
+Gere um relatório[relatorio](Preço_Medio.csv) informando o preço médio dos produtos.
 
 Selecione a média dos preços dos produtos em 2 grupos: perecíveis e não
 perecíveis.
