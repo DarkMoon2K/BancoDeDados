@@ -10,7 +10,7 @@ Aplique o exemplo sobre inner join dado no slide 67, do material indicado acima;
 
 Execute essas atividades dentro o Oracle Workbench;
 
-Crie um repositório remoto e envie o [script](CidadesEAlunos09_10_2023.sql) em SQL;
+Crie um repositório remoto e envie o [script](CidadesEAlunos.sql) em SQL;
 
 Produza o Readme do repositório remoto e tire um print da tela após o término da atividade;
 
