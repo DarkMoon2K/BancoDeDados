@@ -13,7 +13,9 @@ No segundo insert mesmo sem colocar a data e o horario, por conta do gatilho tod
 
 ## Exemplo Trigger 2
 Scrip da criação da tabela filmes e primeira versão do gatilho [aqui](CriaçãoDaTabelaFilmes.sql)
+
 Scrip do gatilho com erro personalizado e o insert dos valores na tabela [aqui](InserindoOsFilmes.sql)
+
 Scrip da tabela de log deletions e o gatilho que adiciona os logs [aqui](Log_Deletions.sql)
 
 ## Print dos logs deletions
