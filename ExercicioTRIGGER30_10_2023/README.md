@@ -12,7 +12,7 @@ Codigo do exemplo [aqui](exercicioTriggerPedidos.sql).
 No segundo insert mesmo sem colocar a data e o horario, por conta do gatilho todo valor que for adicionado a tabela "Pedidos" recebera o de data e hora do momento que foi adicionado.
 
 ## Exemplo Trigger 2
-Scrip da criação da tabela filmes e primeira versão do gatilho [aqui](CriaçãoDaTabelaFilmes.sql)
+Scrip da criação da tabela filmes e primeira versão do gatilho [aqui](CriaçãoDaTabelaFIlmes.sql)
 
 Scrip do gatilho com erro personalizado e o insert dos valores na tabela [aqui](InserindoOsFilmes.sql)
 
