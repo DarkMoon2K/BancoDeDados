@@ -32,7 +32,7 @@ Print antes de adicionar os pedidos e criar o Trigger
 Print depois de adicionar os pedidos e criar o Trigger
 
 
-[Codigo](StoredETrigger.sql)
+### [Codigo](StoredETrigger.sql)
 
 
 ## Etapa 4: View
@@ -51,4 +51,4 @@ Escreva uma consulta SQL que utiliza JOIN para listar os detalhes dos pedidos de
 ![View](PrintJoin.png)
 
 
-[Codigo](ViewJoin.sql)
+### [Codigo](ViewJoin.sql)
