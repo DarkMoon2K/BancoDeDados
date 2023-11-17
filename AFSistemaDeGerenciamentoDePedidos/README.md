@@ -40,7 +40,7 @@ Print depois de adicionar os pedidos e criar o Trigger
 Crie uma view chamada "PedidosClientes" que combina informações das tabelas "Clientes" e "Pedidos" usando JOIN para mostrar os detalhes dos pedidos e os nomes dos clientes.
 
 
-![Join](PrintJoin.png)
+![Join](PrintView.png)
 
 
 ## Etapa 5: Consulta com JOIN
@@ -48,7 +48,7 @@ Crie uma view chamada "PedidosClientes" que combina informações das tabelas "C
 Escreva uma consulta SQL que utiliza JOIN para listar os detalhes dos pedidos de cada cliente, incluindo o nome do cliente e o valor total de seus pedidos. Utilize a view "PedidosClientes" para essa consulta.
 
 
-![View](PrintView.png)
+![View](PrintJoin.png)
 
 
 [Codigo](ViewJoin.sql)
